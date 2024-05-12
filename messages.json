@@ -1,10 +1,14 @@
 [
   {
-    "id": 6,
+    "id": 1,
     "bundleId": "mj.PillMemo",
     "title": "App Alert",
-    "text": "WARNING: Please note that TipJar function is currently not working as expected. I will fix bug as soon as possible. I apologies for the inconvenience.",
+    "text": "Warning: There is a bug in this version of the application and your version of iOS and I am working on it...",
     "confirmLabel": "OK",
-    "appVersions": ["1.3.0"]
+    "appVersions": ["1.3.0"],
+    "link": {
+      "title": "More information",
+      "url": "https://www.createchsol.com"
+    }
   }
 ]
