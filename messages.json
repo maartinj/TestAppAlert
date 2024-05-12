@@ -1,11 +1,11 @@
 [
   {
-    "id": 2,
+    "id": 3,
     "bundleId": "mj.AppAlertExample",
     "title": "App Alert",
     "text": "Warning: There is a bug in this version of the application and your version of iOS and I am working on it...",
     "confirmLabel": "OK",
-    "appVersions": ["1.3.0"],
+    "appVersions": ["1.3"],
     "link": {
       "title": "More information",
       "url": "https://www.createchsol.com"
