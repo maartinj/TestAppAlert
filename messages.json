@@ -1,9 +1,9 @@
 [
   {
-    "id": 3,
+    "id": 4,
     "bundleId": "mj.PillMemo",
     "title": "App Alert",
-    "text": "Warning: There is a bug in this version of the application and your version of iOS and I am working on it...",
+    "text": "WARNING: Please note that TipJar function is currently not working as expected. I will fix bug as soon as possible. I apologies for the inconvenience.",
     "confirmLabel": "OK",
     "appVersions": ["1.2.1"],
     "link": {
