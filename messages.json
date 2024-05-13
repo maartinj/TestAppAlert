@@ -1,9 +1,11 @@
 [
   {
-    "id": 4,
+    "id": 1,
     "bundleId": "mj.PillMemo",
     "title": "App Alert",
-    "text": "WARNING: Please note that TipJar function is currently not working as expected. I will fix bug as soon as possible. I apologies for the inconvenience.",
+    "textEN": "WARNING: Please note that the donation function is currently not working as expected. The issue will be fixed as soon as possible. Apologies for any inconvenience.",
+    "textPL": "OSTRZEŻENIE: Prosimy zauważyć, że funkcja dotacji obecnie nie działa zgodnie z oczekiwaniami. Błąd zostanie naprawiony tak szybko, jak to możliwe. Przepraszamy za wszelkie niedogodności.",
+    "textDE": "WARNUNG: Bitte beachten Sie, dass die Spendefunktion derzeit nicht wie erwartet funktioniert. Der Fehler wird so schnell wie möglich behoben. Entschuldigen Sie die Unannehmlichkeiten.",
     "confirmLabel": "OK",
     "appVersions": ["1.2.1"],
     "link": {
