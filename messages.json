@@ -1,7 +1,7 @@
 [
   {
     "id": 2,
-    "bundleId": "mj.AppAlertExample",
+    "bundleId": "mj.PillMemo",
     "title": "App Alert",
     "text": "Warning: There is a bug in this version of the application and your version of iOS and I am working on it...",
     "confirmLabel": "OK",
