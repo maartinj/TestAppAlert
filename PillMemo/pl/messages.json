@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "bundleId": "mj.PillMemo",
+    "title": "Alert aplikacji",
+    "text": "OSTRZEŻENIE: Prosimy zauważyć, że funkcja dotacji obecnie nie działa zgodnie z oczekiwaniami. Błąd zostanie naprawiony tak szybko, jak to możliwe. Przepraszamy za wszelkie niedogodności.",
+    "confirmLabel": "OK",
+    "appVersions": ["1.3.0"],
+    "link": {
+      "title": "More information",
+      "url": "https://www.createchsol.com"
+    }
+  }
+]
