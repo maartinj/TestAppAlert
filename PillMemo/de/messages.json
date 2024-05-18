@@ -2,7 +2,7 @@
   {
     "id": 1,
     "bundleId": "mj.PillMemo",
-    "title": "App-Benachrichtigung",
+    "title": "⚠️ App-Benachrichtigung ⚠️",
     "text": "WARNUNG: Bitte beachten Sie, dass die Spendefunktion derzeit nicht wie erwartet funktioniert. Der Fehler wird so schnell wie möglich behoben. Entschuldigen Sie die Unannehmlichkeiten.",
     "confirmLabel": "OK",
     "appVersions": ["1.3.0"],
