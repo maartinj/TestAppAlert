@@ -7,7 +7,7 @@
     "textPL": "OSTRZEŻENIE: Prosimy zauważyć, że funkcja dotacji obecnie nie działa zgodnie z oczekiwaniami. Błąd zostanie naprawiony tak szybko, jak to możliwe. Przepraszamy za wszelkie niedogodności.",
     "textDE": "WARNUNG: Bitte beachten Sie, dass die Spendefunktion derzeit nicht wie erwartet funktioniert. Der Fehler wird so schnell wie möglich behoben. Entschuldigen Sie die Unannehmlichkeiten.",
     "confirmLabel": "OK",
-    "appVersions": ["1.2.1"],
+    "appVersions": ["1.4.0"],
     "link": {
       "title": "More information",
       "url": "https://www.createchsol.com"
